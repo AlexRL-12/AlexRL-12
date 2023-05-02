@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexRL-12&theme=onestar&column=5&rank=-?" alt="AlexRL-12" /></a> </p>
 
-- 🔭 I’m currently working on **TalksPro & Reciclapp**
+- 🔭 I’m currently working on **Odoo triario, EasyGo & Reciclapp**
 
 - 🌱 I’m currently learning **Docker & English**
 
