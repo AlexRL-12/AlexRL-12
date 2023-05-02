@@ -1,16 +1,15 @@
-### Hi there 👋
+Bienvenido/a a mi perfil de GitHub! 👋
 
-<!--
-**AlexRL-12/AlexRL-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acerca de mí
+Soy un desarrollador de software apasionado con habilidades en 🎯 C#, 🟢 Node.js, 🟡 JavaScript, 🟦 TypeScript y 🗃️ bases de datos, entre otras áreas relevantes. Me encanta aprender y experimentar con nuevas tecnologías y herramientas.
 
-Here are some ideas to get you started:
+Habilidades
+🎯 C#
+🟢 Node.js
+🟡 JavaScript
+🟦 TypeScript
+🗃️ Bases de datos (SQL, NoSQL)
+🌐 HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto
+Si estás interesado/a en colaborar en algún proyecto o simplemente quieres conectarte conmigo, no dudes en enviarme un mensaje a través de mi perfil de GitHub. ¡Estoy siempre abierto/a a nuevas oportunidades y proyectos emocionantes!
